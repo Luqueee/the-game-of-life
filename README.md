@@ -1,1 +1,3 @@
-# Juego-de-la-vida
+# THE GAME OF LIFE
+
+## INSTRUCTIONS:
